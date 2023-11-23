@@ -1,0 +1,14 @@
+C:\Users\Albert\Documents\Projekty\SharpCave\bin\Debug\net8.0\SharpCave.exe
+C:\Users\Albert\Documents\Projekty\SharpCave\bin\Debug\net8.0\SharpCave.deps.json
+C:\Users\Albert\Documents\Projekty\SharpCave\bin\Debug\net8.0\SharpCave.runtimeconfig.json
+C:\Users\Albert\Documents\Projekty\SharpCave\bin\Debug\net8.0\SharpCave.dll
+C:\Users\Albert\Documents\Projekty\SharpCave\bin\Debug\net8.0\SharpCave.pdb
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.AssemblyInfoInputs.cache
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.AssemblyInfo.cs
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.dll
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\refint\SharpCave.dll
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.pdb
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\SharpCave.genruntimeconfig.cache
+C:\Users\Albert\Documents\Projekty\SharpCave\obj\Debug\net8.0\ref\SharpCave.dll
